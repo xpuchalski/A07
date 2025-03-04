@@ -1,0 +1,42 @@
+*{
+    font-family: Georgia;
+    max-width: 800px;
+}
+.logo {
+    position: absolute;
+}
+
+h2 {
+    color: #800000;
+}
+
+.shadow {
+    text-shadow: #800000 2px 2px;
+}
+
+footer {
+    text-align: center;
+    background-color: #931420;
+    border: 10px solid;
+    border-color: #931420;
+    color: #fffded;
+}
+
+a:hover{
+    font-style: italic;
+}
+
+div {
+    border: 3px solid;
+    border-color: #931420;
+    padding: 15px;
+}
+header{
+    border: 3px solid;
+    border-color: #931420;
+    background: linear-gradient(0.25turn, #f6bb73, white, #f6bb73);}
+hr {
+    color: #931420;
+    height: 2px;
+    background-color: #931420;
+}
